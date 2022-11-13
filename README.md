@@ -14,7 +14,6 @@
 
 
 # libmysqlclient20 в Ubuntu 20
-# Фикс летающего текста в консоли
 
 1. sudo apt update
 2. sudo apt-get install libmysqlclient-dev
