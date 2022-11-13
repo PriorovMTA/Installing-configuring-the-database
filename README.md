@@ -1,4 +1,4 @@
-# Installing-configuring-the-database
+
 
 
 # Установка базы данных:
